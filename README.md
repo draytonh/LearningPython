@@ -28,7 +28,7 @@ if match:
 ```
 ## Gene Name
 ### Installation
-1. First, download the file, Homo_sapiens.GRCh37.75.gtf.gz, from http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens using wget, and place this file within a directory called data within your home directory. Unzip this file with gunzip, gunzip Homo_sapiens.GRCh37.75.gtf.gz
+First, download the file, Homo_sapiens.GRCh37.75.gtf.gz, from http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens using wget, and place this file within a directory called data within your home directory. Unzip this file with gunzip, gunzip Homo_sapiens.GRCh37.75.gtf.gz
 ### Usage
 Run with ./gene_name.py ~/data/Homo_sapiens.GRCh37.75.gtf
 
