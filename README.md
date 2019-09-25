@@ -1,14 +1,11 @@
 # LearningPython
 Basics of Python
-# h1 Markdown Template
-1-2 sentence overview
-> A blockquote
->> Nesting, not needed
-## Table of Contents
-### Outline
+
+### Table of Contents
 + Circumference
 + Area Code
 + Gene Name
+
 ## Circumference
 ```
 #!/usr/bin/python
